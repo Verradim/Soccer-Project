@@ -1,0 +1,58 @@
+.btn-twitter {
+	color: white;
+	background: red;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 1px;
+	padding: 15px 20px;
+	transition: border-radius 0.3s ease;
+}
+
+.btn-twitter:hover {
+	color:white;
+	background: black;
+	border-radius: 0px;
+}
+
+.btn-medium {
+	color:white;
+	background: black;
+	border-radius: 50px;
+	border: 1px solid;
+	padding: 15px 20px;
+	transition: opacity 0.3s ease;
+}
+.btn-medium:hover {
+color: white;
+background: red;
+opacity: 1;
+}
+.button-blue {
+	background: white;
+	color: black;
+	border-radius: 5px;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+	padding: 15px 30px;
+	transition-duration: 0.4s;
+
+}
+.button-blue:hover {
+	background-color: #4CAF50;
+	color: white;
+	opacity: 3;
+}
+
+.button-black {
+	background: black;
+	color: white;
+	border-radius: 5px;
+	letter-spacing: 0.5px;
+	padding: 5px 10px;
+	transition-duration: 0.4s;
+}
+.button-black:hover {
+	background-color: #4CAF50;
+	color: white;
+	opacity: 3;
